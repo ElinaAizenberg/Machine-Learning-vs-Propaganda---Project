@@ -19,3 +19,28 @@ For this project I gathered headlines from 6 US media:
 
 **DISCLAIMER:**
 if you notice sarcasm or snide comments in this project, please, do not take it seriously. It emerged as a response to several political and legislative innovations in Russia that aim to limit access to education, control international educational initiatives, put at risk scientists and educators or make them leave the country, lower people's awareness of the outside world. I hope sharp humor of this project will reduce the level of anxiety.
+
+
+# Notebook & Website
+
+The project includes the following Notebooks with detailed analysis and code:
+
+- Headlines web scraping.ipynb
+- Headlines reading and clustering.ipynb
+
+If you are interested in more visually pleasant presentation of this project, please, visit my website elina-aizenberg-cv.com .
+
+# Conclusion
+
+My conclusions and overall impression from  American headlines are following:
+
+- US media and citizens are interested mostly in internal affairs of their own country. Other countries are mentioned or discussed only in frame of external participation in US affairs or some relationships between American and foreign political figures;
+
+- coronavirus agends is everywhere. Whether it is about impeachement or election, opposition leader poisoning or oil price, COVID-19 is also here;
+
+- I haven't noticed even a hint on any suspicious plans of how to impose western values on Russians or how to devastate Russian economy;
+
+- it looks like Russian intervention in US affairs is much more obvious than the opposite one.
+
+
+Regrettably, I have to admit that Russian propogandists play dirty in attempts to frighten Russian citizens and turn them against people from the USA who have, apprently, no idea about Russian values and economy. 
