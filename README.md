@@ -36,7 +36,7 @@ My conclusions and overall impression from  American headlines are following:
 
 - US media and citizens are interested mostly in internal affairs of their own country. Other countries are mentioned or discussed only in frame of external participation in US affairs or some relationships between American and foreign political figures;
 
-- coronavirus agends is everywhere. Whether it is about impeachement or election, opposition leader poisoning or oil price, COVID-19 is also here;
+- coronavirus agenda is everywhere. Whether it is about impeachement or election, opposition leader poisoning or oil price, COVID-19 is also here;
 
 - I haven't noticed even a hint on any suspicious plans of how to impose western values on Russians or how to devastate Russian economy;
 
