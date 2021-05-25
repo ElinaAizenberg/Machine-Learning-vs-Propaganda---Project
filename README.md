@@ -26,7 +26,7 @@ if you notice sarcasm or snide comments in this project, please, do not take it 
 The project includes the following Notebooks with detailed analysis and code:
 
 - [Headlines web scraping.ipynb](https://github.com/ElinaAizenberg/Machine-Learning-vs-Propaganda---Project/blob/main/Headlines%20web%20scraping.ipynb)
-- Headlines reading and clustering.ipynb
+- [Headlines reading and clustering.ipynb](https://github.com/ElinaAizenberg/Machine-Learning-vs-Propaganda---Project/blob/main/Headlines%20reading%20and%20clustering.ipynb)
 
 If you are interested in more visually pleasant presentation of this project, please, visit my website elina-aizenberg-cv.com .
 
