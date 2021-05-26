@@ -20,8 +20,9 @@ For this project I gathered headlines from 6 US media:
 **DISCLAIMER:**
 if you notice sarcasm or snide comments in this project, please, do not take it seriously. It emerged as a response to several political and legislative innovations in Russia that aim to limit access to education, control international educational initiatives, put at risk scientists and educators or make them leave the country, lower people's awareness of the outside world. I hope sharp humor of this project will reduce the level of anxiety.
 
+​
 
-# Notebook & Website
+# Notebooks & Website
 
 The project includes the following Notebooks with detailed analysis and code:
 
@@ -29,6 +30,8 @@ The project includes the following Notebooks with detailed analysis and code:
 - [Headlines reading and clustering.ipynb](https://github.com/ElinaAizenberg/Machine-Learning-vs-Propaganda---Project/blob/main/Headlines%20reading%20and%20clustering.ipynb)
 
 If you are interested in more visually pleasant presentation of this project, please, visit my [website](https://www.elina-aizenberg-cv.com/headlines-project).
+
+​
 
 # Conclusion
 
